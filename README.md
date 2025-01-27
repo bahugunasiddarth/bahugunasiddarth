@@ -2,7 +2,7 @@
 <h3 align="Left">Trying To Become Data Scientist | Web Developer | Cybersecurity Enthusiast</h3>
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif">
 
-  - 📫 I’m currently learning *Data Science*
+  - 📫 I’m currently learning *Data Science AND Backend*
 
   - 📫 Reach me at ritikritik0@gmail.com
 
