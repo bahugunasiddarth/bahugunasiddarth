@@ -8,9 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hello_hos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hello_hos" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hello-hos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-singh-372275294" height="30" width="40" /></a>
-<a href="https://instagram.com/hos.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hos.s" height="30" width="40" /></a>
+<a href="[https://instagram.com/hos.s](https://www.instagram.com/bahugunasiddarth_2?igsh=OXVxZWRrOWtxaXBq)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bahugunasiddarth" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
