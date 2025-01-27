@@ -1,6 +1,6 @@
 ![Full Stack Developer](https://oclc.wd1.myworkdayjobs.com/OCLC_Careers/assets/banner)
 <h3 align="Left">Trying To Become Data Scientist | Web Developer | Frontend Developer</h3>
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 📫 I’m currently learning *Data Science and Backend*  
 - 📫 Reach me at **bahugunasiddhi@gmail.com**
@@ -76,6 +76,10 @@
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
+  </a>
+  <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Xampp_logo.svg" alt="xampp" width="40" height="40"/>
+  </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="40" height="40"/>
   </a>
