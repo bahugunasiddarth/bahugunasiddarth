@@ -84,3 +84,4 @@
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="Vercel" width="40" height="40"/>
   </a>
+</p>
