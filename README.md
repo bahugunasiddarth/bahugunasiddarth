@@ -5,9 +5,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300">
 </p>
 
-- 🌱 I’m currently learning **Data Science and Backend Development**  
-- 📫 Reach me at **bahugunasiddhi@gmail.com**  
-- 💬 Ask me about **Web Development, Data Analysis, or anything tech-related!**
+🌱 I’m currently learning **Data Science and Backend Development**  
+📫 Reach me at **bahugunasiddhi@gmail.com**  
+💬 Ask me about **Web Development, Data Analysis, or anything tech-related!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
