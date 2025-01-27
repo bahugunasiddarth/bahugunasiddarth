@@ -2,24 +2,12 @@
 <h3 align="center">Aspiring Data Scientist | Web Developer | Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300" style="border-radius: 50%; animation: float 3s ease-in-out infinite;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300">
 </p>
-
-<style>
-  @keyframes float {
-    0%, 100% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
-  }
-</style>
 
 - 🌱 I’m currently learning **Data Science and Backend Development**  
 - 📫 Reach me at **bahugunasiddhi@gmail.com**  
-- 💬 Ask me about **Web Development, Data Analysis, or anything tech-related!**  
-- ⚡ Fun fact: **I love solving puzzles and building things from scratch!**
+- 💬 Ask me about **Web Development, Data Analysis, or anything tech-related!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -96,20 +84,3 @@
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="Vercel" width="40" height="40"/>
   </a>
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</p>
-
-<h3 align="left">Visitor Count:</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Visitor Count" />
-</p>
-
-<h3 align="left">Top Languages:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
