@@ -2,9 +2,9 @@
 <h3 align="Left">Trying To Become Data Scientist | Web Developer | Frontend Developer</h3>
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif">
 
-  - 📫 I’m currently learning *Data Science AND Backend*
+  - 📫 I’m currently learning *Data Science and Backend*
 
-  - 📫 Reach me at ritikritik0@gmail.com
+  - 📫 Reach me at bahugunasiddhi@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
